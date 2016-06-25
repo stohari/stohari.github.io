@@ -1,0 +1,35 @@
+
+h3 {
+  color: purple;
+  font-size: 30px;
+
+}
+nav {
+  color: purple;
+  font-size: 30px;
+}
+body {
+  background-image: url(pattern.jpeg);
+  background-repeat: repeat;
+
+}
+body {
+  background-color: beige;
+  }
+
+img {
+  height:400px;
+  width:600px;
+}
+h1, h2 {
+  background-color: blue;
+  font-size: 50px;
+  display: block;
+  width:600px;
+  text-align: center;
+}
+section {
+  width: 640px;
+  display: inline-block;
+  padding: 10px;
+}
